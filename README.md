@@ -1,21 +1,20 @@
-# 🚀 Space Mission Log: Dhrubajyoti930
+# 🔄 Dhrubajyoti's Fourier Synthesis & Algorithmic Art
 
 <div align="center">
-  <img src="./animation.svg" alt="Spaceship Animation" width="100%" />
+  <img src="./animation.svg" alt="Fourier Epicycle Animation" width="100%" />
 </div>
 
 ---
 
-### 🛰️ Mission Overview
-I am a passionate developer navigating the digital cosmos, building clean user interfaces, and launching robust applications into orbit. 
+### 🧮 Algorithmic Explorations
+I am deep-diving into mathematical visualization, signal analysis, and computational art, specifically leveraging the elegant synthesis of complex forms via **Fourier Series**.
 
-* 🌌 **Current Focus:** Deep-diving into advanced frontend architectures and interactive web animations.
-* 🛸 **Aspiration:** Crafting seamless digital experiences that feel like magic.
-* ☄️ **Fun Fact:** Just like a voyager probe, my code is built to run autonomously and survive the unexpected.
+* **Equation Visualized Above:** f(t) ≈ Σ (Am sin(mωt) + Bm cos(mωt))
+* **Visualizing a Fourier Approximation:** The dynamic epicycle generator above demonstrates how a sequence of rotating vectors (circles) can approximate a multi-peaked complex wave.
 
 ---
 
-### 🛠️ The Control Panel (Tech Stack)
+### 🛠️ The Harmonic Toolbox (Tech Stack)
 
 | Category | Technologies |
 | :--- | :--- |
@@ -25,7 +24,7 @@ I am a passionate developer navigating the digital cosmos, building clean user i
 
 ---
 
-### 📊 Galactic Stats
+### 📊 Harmonic Profiles (Stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhrubajyoti930&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
@@ -34,5 +33,5 @@ I am a passionate developer navigating the digital cosmos, building clean user i
 ---
 
 <div align="center">
-  <p>📬 <b>Signal Received?</b> Let's connect and build something celestial.</p>
+  <p>📬 <b>Signal Synthesis Lab: Let's create something celestial.</b></p>
 </div>
