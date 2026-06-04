@@ -1,8 +1,8 @@
 # Hi there, I'm Dhrubajyoti 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Refining-brightgreen?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Software%20Architecture%20%26%20DDD-blueviolet?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Status-Preparing for exams-brightgreen?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-JEE-blueviolet?style=flat-square" alt="Focus">
 </p>
 
 ---
