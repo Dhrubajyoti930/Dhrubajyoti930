@@ -1,7 +1,8 @@
 # 👋 Welcome to my profile!
 
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/019/336/942/original/ismail-p-robotdogrun0001-0165.gif?1563039751" alt="Dog chasing a robot loop" width="500"/>
+  <!-- Dynamic, looping animation of a dog chasing a mechanical/robot toy -->
+  <img src="https://assets.mixkit.co/active_storage/sapiens/294/sapiens-dog-chasing.gif" alt="Dog chasing loop" width="450"/>
 </p>
 
 ---
