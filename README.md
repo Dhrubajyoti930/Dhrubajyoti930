@@ -7,31 +7,19 @@
 
 ---
 
-### 🚀 About Me
+### 🛠️ Tech Stack & Skills
 
-I am a software engineer focused on building robust backend systems, refining complex domain models, and writing clean, structured code. I enjoy stress-testing architectural plans and ensuring documentation evolves naturally alongside active technical specs.
-
-* 🔭 **Current Focus:** Sharpening domain terminologies and building resilient system workflows.
-* 🧠 **Learning:** Advanced distributed architectures and evolving infrastructure design patterns.
-* 💬 **Ask Me About:** Domain-Driven Design (DDD), automated validation, and continuous documentation patterns.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Core** | Python, TypeScript, Node.js, Go |
-| **Data & Infra** | PostgreSQL, Docker, AWS, SQL |
-| **Methodologies** | DDD, TDD, Agile, Continuous Specs (ADRs/CONTEXT) |
+* **Languages & Core:** Python, TypeScript, Node.js, Go, SQL
+* **Data & Infrastructure:** PostgreSQL, Docker, AWS Cloud Services
+* **Methodologies:** Domain-Driven Design (DDD), Test-Driven Development (TDD), Agile workflows, Continuous Documentation & Architectural Specs (ADRs/CONTEXT)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhrubajyoti930&show_icons=true&theme=gotham&count_private=true" alt="Dhrubajyoti's Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrubajyoti930&layout=compact&theme=gotham" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Dhrubajyoti930&show_icons=true&theme=gotham&count_private=true" alt="Dhrubajyoti's Stats" height="160" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhrubajyoti930&layout=compact&theme=gotham" alt="Top Languages" height="160" />
 </p>
 
 ---
