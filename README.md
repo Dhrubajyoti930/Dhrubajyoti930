@@ -7,14 +7,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-* **Languages & Core:** Python, TypeScript, Node.js, Go, SQL
-* **Data & Infrastructure:** PostgreSQL, Docker, AWS Cloud Services
-* **Methodologies:** Domain-Driven Design (DDD), Test-Driven Development (TDD), Agile workflows, Continuous Documentation & Architectural Specs (ADRs/CONTEXT)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="left">
@@ -27,10 +19,10 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/dhrubajyoti-chowdhury-26a231312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:chowdhurydhrubajyoti930@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
